@@ -24,8 +24,7 @@ The main objective was to improve Evergreen's weekly team reporting workflow by:
 - A demonstration **video walkthrough** of the solution.
 
 ## 📂 Included Files
-
-- `Weekly Report Summary.pbix` – Final Power BI dashboard file  
+ 
 - `Weekly Report.xlsx` – Structured Excel form for employee data entry  
 - `Weekly Report Summary.pdf` – PDF version of the dashboard  
 - `BA RSS Final Powerpoint.pptx` – Capstone presentation slides  
@@ -57,3 +56,4 @@ The final solution reduced manual report generation time by over 70%, improved d
 ---
 
 *This repository is a showcase of business intelligence skills applied in a real-world consulting environment.*
+
